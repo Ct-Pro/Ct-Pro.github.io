@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CtPro</title>
+        <link>https://example.com/</link>
+        <description>基督徒专业网，致力于专业内容。</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>我的第一篇文章</title>
+    <link>https://example.com/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/</guid>
+    <description><![CDATA[您弟弟的]]></description>
+</item></channel>
+</rss>
